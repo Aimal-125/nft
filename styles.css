@@ -109,3 +109,9 @@ body {
 		width: 90%;
 	}
 }
+
+@media screen and (max-height: 500px) {
+	.imgdiv {
+		height: 15rem;
+	}
+}
