@@ -112,6 +112,7 @@ body {
 
 @media screen and (max-height: 500px) {
 	.imgdiv {
-		height: 15rem;
+		height: 10rem;
+		width: 80%;
 	}
 }
